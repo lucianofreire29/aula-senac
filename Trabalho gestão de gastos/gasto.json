@@ -1,0 +1,17 @@
+
+
+controle_financeiro = [
+        {
+            "descricao": "almoço",
+            "valor": 25.90,
+            "categoria": "alimentação",
+            "data": "05/03/2026"
+        },  
+        {
+            "descricao": "Uber",
+            "valor": 15.00,
+            "categoria": "transporte",
+            "data": "06/03/2026"
+        }
+    ]
+

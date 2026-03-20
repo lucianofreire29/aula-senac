@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nome": "luciano",
+        "email": "luciano@gmail.com",
+        "curso": "TI",
+        "codigo turma": "10",
+        "nota1": 9.0,
+        "nota2": 10.0,
+        "nota3": 8.5,
+        "media": 9.17
+    },
+    {
+        "id": 2,
+        "nome": "pedro",
+        "email": "pedro@gmail.com",
+        "curso": "administração",
+        "codigo turma": "21",
+        "nota1": 5.0,
+        "nota2": 5.0,
+        "nota3": 10.0,
+        "media": 6.67
+    },
+    {
+        "id": 3,
+        "nome": "luciano",
+        "email": "luciano1@gmail.com",
+        "curso": "Ti",
+        "codigo turma": "10",
+        "nota1": 10.0,
+        "nota2": 10.0,
+        "nota3": 10.0,
+        "media": 10.0
+    },
+    {
+        "id": 4,
+        "nome": "Jo",
+        "email": "jo@.com",
+        "curso": "TI",
+        "codigo turma": "12",
+        "nota1": 10.0,
+        "nota2": 10.0,
+        "nota3": 10.0,
+        "media": 10.0
+    }
+]
